@@ -1,0 +1,22 @@
+# Reddify.toml
+
+[pushover]
+USER_ID = ""
+API_KEY = ""
+
+[reddit]
+CLIENT_ID = ""
+CLIENT_SECRET = ""
+USER_AGENT = "username/app-name/description"
+
+[submissions]
+
+homelabsales = [
+  "free"
+]
+
+[comments]
+
+homelabsales = [
+  "free"
+]

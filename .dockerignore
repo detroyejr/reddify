@@ -1,0 +1,10 @@
+*.lock
+*.nix
+*.yaml
+.env
+.devenv
+.git
+.dockerignore
+.gitignore
+.envrc
+Dockerfile
